@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-12-29 18:03:47</sys_created_on>
-            <sys_id>424f9ce02fb04110f827d7a72799b66f</sys_id>
+            <sys_id>dc26ea591be10110208043fddc4bcbcf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -27,39 +27,19 @@
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:18:06</sys_created_on>
+            <sys_created_on>2022-02-08 17:48:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7382a4a42fb04110f827d7a72799b664</sys_id>
+            <sys_id>b6f4e32d1be10110208043fddc4bcb89</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:18:06</sys_updated_on>
+            <sys_updated_on>2022-02-08 17:48:35</sys_updated_on>
             <value>hr</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>true</inactive>
-            <label>Humam Resources</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>0</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:03:47</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>0a4f9ce02fb04110f827d7a72799b66e</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:16:07</sys_updated_on>
-            <value>[hr]</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_request_type</element>
-            <hint/>
             <inactive>false</inactive>
             <label>Facilities</label>
             <language>en</language>
@@ -67,39 +47,19 @@
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:18:06</sys_created_on>
+            <sys_created_on>2022-02-08 17:48:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7382a4a42fb04110f827d7a72799b667</sys_id>
+            <sys_id>0bf4e32d1be10110208043fddc4bcb8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:18:06</sys_updated_on>
+            <sys_updated_on>2022-02-08 17:48:35</sys_updated_on>
             <value>facilities</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>true</inactive>
-            <label>Facilities</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>1</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:03:47</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>8e4f9ce02fb04110f827d7a72799b671</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:16:07</sys_updated_on>
-            <value>[facilities]</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_request_type</element>
-            <hint/>
             <inactive>false</inactive>
             <label>Legal</label>
             <language>en</language>
@@ -107,39 +67,19 @@
             <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:18:06</sys_created_on>
+            <sys_created_on>2022-02-08 17:48:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ff82a4a42fb04110f827d7a72799b675</sys_id>
+            <sys_id>cff4e32d1be10110208043fddc4bcb8e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:18:06</sys_updated_on>
+            <sys_updated_on>2022-02-08 17:48:35</sys_updated_on>
             <value>legal</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
-            <inactive>true</inactive>
-            <label>Legal</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>2</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:03:47</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>464f9ce02fb04110f827d7a72799b674</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:16:07</sys_updated_on>
-            <value>[legal]</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_request_type</element>
-            <hint/>
             <inactive>false</inactive>
             <label>Logistics</label>
             <language>en</language>
@@ -147,34 +87,14 @@
             <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:18:07</sys_created_on>
+            <sys_created_on>2022-02-08 17:48:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b782a4a42fb04110f827d7a72799b678</sys_id>
+            <sys_id>87f4e32d1be10110208043fddc4bcb91</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:18:07</sys_updated_on>
+            <sys_updated_on>2022-02-08 17:48:35</sys_updated_on>
             <value>logistics</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_request_type</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Logistics</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>3</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-29 18:03:47</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>0e4f9ce02fb04110f827d7a72799b676</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-29 18:16:07</sys_updated_on>
-            <value>[logistics]</value>
         </sys_choice>
     </sys_choice>
 </record_update>
